@@ -12,4 +12,6 @@
 - **📫 How to reach me:** `<firstname>.<lastname>@research.iiit.ac.in`
 - **😄 Pronouns:** she/her
 
+**Or reach out on Linkedin at** https://www.linkedin.com/in/kshitijaa-jaglan/ 
+
 ![Kshitijaa's github stats](https://github-readme-stats.vercel.app/api?username=deutranium&show_icons=true&theme=algolia&count_private=true)
