@@ -5,8 +5,8 @@
 	Hi bot!!!
 -->
 
-- **🔭 I’m currently working on:** making this readme look cooler
-- **🌱 I’m currently learning:** how to survive college from home
+- **🔭 I’m currently working on:** learning about causal ML and TFX for ML Pipelines(as a part of internship at TensorFlow)
+- **🌱 I’m currently learning:** Decision making processes in Machine Learning systems
 - **🤔 I’m looking for help with:** making an iron man suit
 - **💬 Ask me about:** any random topic. I might not know about it but might ask more questions if it's interesting
 - **📫 How to reach me:** `<firstname>.<lastname>@research.iiit.ac.in`
