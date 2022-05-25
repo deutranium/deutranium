@@ -5,9 +5,9 @@
 	Hi bot!!!
 -->
 
-- **🔭 I’m currently working on:** organising Open Tech Summit with Open Source Developers Group, IIIT Hyderabad (and surviving the end semester at the same time)
-- **🕰 In the near future:** I'll be interning at Google as a Strategic Cloud Engineer intern (Summer'22)
-- **🌱 I’m currently learning:** Explainable AI + Causal ML + bits and bytes of philosophy in all this
+- **🔭 I’m currently working on:** Getting upto speed with my research while interning at Google!
+<!-- - **🕰 In the near future:** I'll be interning at Google as a Strategic Cloud Engineer intern (Summer'22) -->
+- **🌱 I’m currently learning:** Social Networks + Homophily + Explainable AI + Causal ML + bits and bytes of philosophy in all this
 - **🤔 I’m looking for help with:** making an iron man suit
 - **💬 Ask me about:** any random topic. I might not know about it but might ask more questions if it's interesting
 - **📫 How to reach me:** `<firstname>.<lastname>@research.iiit.ac.in`
